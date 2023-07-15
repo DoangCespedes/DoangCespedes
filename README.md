@@ -22,10 +22,8 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | | Firebase 
-
-<hr>
-
+- 🔧 &nbsp; AWS | | Firebase
+  
 <br/>
 <h3> 🤝🏻 Connect with Me </h3>
 <hr/>
