@@ -8,43 +8,25 @@
 
 - 👨🏻 &nbsp;I am a developer with more than 2 years of experience implementing frontend and backend solutions in web environments.
 
-- 🎓 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Learning about Cloud Tech, Systems Design.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
+- ✍️ &nbsp; Exploring new technologies and developing software solutions. 
 
 
 <h3>🛠 Tech Stack</h3>
 
-
-
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
+- 🌐 &nbsp; HTML | CSS | JavaScript | React js | React Native | Node js | TypeScript | Strapi
+- 
+- 💻 &nbsp;  MySQL | MongoDB | PostgreSQL | PL/SQL | Git (Github, Gitlab)| Postman | Kubernetes | Docker🐳
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | | Firebase 
 
 <hr>
 
-
-
-<br/><br/>
+<br/>
 <h3> 🤝🏻 Connect with Me </h3>
 <hr/>
 
@@ -54,9 +36,6 @@
 
 <a href="https://www.linkedin.com/in/doangcespedes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DoangCespedes-blue?style=flat-square&logo=linkedin"></a>
 
-<p><img alt="Email" src="https://img.shields.io/badge/Email-doangcespedesloreto@gmail.com-blue?style=flat-square&logo=gmail"></p>
-
-<p>Teléfono: <br/>
-+5491163674688 (Móvil)</p>
+<a href="cespedes:doangcespedesloreto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-doangcespedesloreto@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
