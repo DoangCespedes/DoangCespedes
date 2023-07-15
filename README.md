@@ -15,3 +15,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+<p align="center">
+
+<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+
+<a href="https://www.linkedin.com/in/doangcespedes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="Doang Cespedes:doangcespedesloreto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
+
