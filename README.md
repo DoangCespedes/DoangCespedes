@@ -46,14 +46,13 @@
 
 <br/><br/>
 <h3> 🤝🏻 Connect with Me </h3>
-
-<hr>
+<hr/>
 
 <p align="center">
 
-<a href="https://www.portafolio-doang-cespedes.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Portafolio-DoangCespedes.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://portafolio-doang-cespedes.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Portafolio-DoangCespedes.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/doangcespedes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/doangcespedes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DoangCespedes%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="Doang Cespedes:doangcespedesloreto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
