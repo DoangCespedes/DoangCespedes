@@ -54,7 +54,9 @@
 
 <a href="https://www.linkedin.com/in/doangcespedes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DoangCespedes-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="Doang Cespedes:doangcespedesloreto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-doangcespedesloreto@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="doangcespedesloreto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-doangcespedesloreto@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+<a href="https://mail.google.com/mail/u/0/#inbox">correo</a>
 
 </p>
 
