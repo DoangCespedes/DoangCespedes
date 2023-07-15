@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src="![Documento de doangcespedesloreto](https://github.com/DoangCespedes/DoangCespedes/assets/84481514/b6940cf4-dd70-416e-b82e-b4e9f352d986)" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+![Documento de doangcespedesloreto](https://github.com/DoangCespedes/DoangCespedes/assets/84481514/b6940cf4-dd70-416e-b82e-b4e9f352d986)
 <!--
 **DoangCespedes/DoangCespedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
