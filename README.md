@@ -6,9 +6,9 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 👨🏻 &nbsp;I am a developer with more than 2 years of experience implementing frontend and backend solutions in web environments.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Exploring new technologies and developing software solutions.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
@@ -51,7 +51,7 @@
 
 <p align="center">
 
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.portafolio-doang-cespedes.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Portafolio-DoangCespedes.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/doangcespedes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
