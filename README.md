@@ -54,7 +54,9 @@
 
 <a href="https://www.linkedin.com/in/doangcespedes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DoangCespedes-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="doang:doangcespedesloreto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-doangcespedesloreto@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<p><img alt="Email" src="https://img.shields.io/badge/Email-doangcespedesloreto@gmail.com-blue?style=flat-square&logo=gmail"></p>
 
+<p>Teléfono: <br/>
++5491163674688 (Móvil)</p>
 </p>
 
