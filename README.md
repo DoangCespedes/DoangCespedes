@@ -6,7 +6,7 @@
 
 
 
-- 👨🏻 &nbsp;I am a developer with more than 2 years of experience implementing frontend and backend solutions in web environments.
+- 👨🏻 &nbsp;I am a developer with more than 4 years of experience implementing frontend and backend solutions in web environments.
 
 - 🎓 &nbsp; Learning about Cloud Tech, Systems Design.
 
